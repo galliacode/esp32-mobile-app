@@ -15,17 +15,16 @@ It is a advanced, but simple (ready to go).
 
  - [Esp32](#esp32)
  - [BLE](#ble)
- - [Part II - Android app](#part-io---android-app)
+ - [Android app](#android-app)
+ - [iOS app](#ios-app)
  - [Features](#features)
  - [BLE messages](#ble-messages)
  - [Structure](#structure)
  - [Prerequisites](#prerequisites)
  - [Schematics](#schematics)
  - [Install](#install)
- - [For Arduino developers](#for-arduino-developers)
- - [Researchs used](#researchs-used)
  - [To-do](#to-do)
- - [Release History](#eelease-history)
+ - [Researchs used](#researchs-used)
 
 ## Esp32
 
@@ -89,6 +88,12 @@ This app has advanced features like:
 
     - General utilities to use
     - Logging macros, to automatically put the function name and the core Id, to optimizations
+
+# iOS app 
+
+    This mobile app for iOS >= 10.3
+    All code is written in Swift
+    No third part libraries is used
 
 ## BLE messages
 
